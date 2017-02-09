@@ -20,7 +20,7 @@
   "devDependencies": {},
   "main": "index.js",
   "engines": {
-    "node": "4.x"
+    "node": "6.x"
   },
   "scripts": {
     "start": "nf start"
